@@ -1,0 +1,2 @@
+# UlohaDoDaTESTOVANI
+kod ulohy
